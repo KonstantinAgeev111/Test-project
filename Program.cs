@@ -20,7 +20,7 @@ class Program
 
         Console.WriteLine(sum); 
 
-        Console.WriteLine(sum); 
+        
  
   
     }
