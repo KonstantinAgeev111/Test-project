@@ -19,9 +19,6 @@ class Program
         double sum = firstfigure + secondfigure + thirdfigure;
 
         Console.WriteLine(sum); 
-
         
- 
-  
     }
 }
