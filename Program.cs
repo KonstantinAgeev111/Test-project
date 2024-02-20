@@ -1,7 +1,7 @@
 ﻿
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
           
         string a = Console.ReadLine();
@@ -19,6 +19,8 @@ class Program
         double sum = firstfigure + secondfigure + thirdfigure;
 
         Console.WriteLine(sum); 
+        Console.WriteLine(sum); 
+        
 
     }
 }
