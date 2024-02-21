@@ -17,6 +17,8 @@ class Program
         double thirdfigure = Convert.ToDouble(c);
 
         double sum = firstfigure + secondfigure + thirdfigure;
+        double sum = firstfigure + secondfigure + thirdfigure;
+        double sum = firstfigure + secondfigure + thirdfigure;
 
         Console.WriteLine(sum); 
         Console.WriteLine(sum); 
